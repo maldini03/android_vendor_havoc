@@ -145,7 +145,6 @@ PRODUCT_PACKAGES += \
     messaging \
     OmniStyle \
     Recorder \
-    SoundPickerPrebuilt \
     Stk \
     Terminal \
     Via \
